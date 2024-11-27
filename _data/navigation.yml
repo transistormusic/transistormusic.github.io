@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
  - title: "Shortwave"
-   url: /shortwave/
+  url: /shortwave/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
