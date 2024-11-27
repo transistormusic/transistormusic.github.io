@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: /about/
- - title: "Shortwave Album"
+ - title: "Shortwave"
    url: /shortwave/
   # - title: "Sample Posts"
   #   url: /year-archive/
