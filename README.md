@@ -1,2 +1,2 @@
-# transistor-pt.github.io
+# transistormusic.github.io
 Transistor's website
