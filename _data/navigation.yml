@@ -4,3 +4,7 @@ main:
     url: /shortwave/
   - title: "About"
     url: /about/
+  - title: "JP"
+    url: /jp/
+  - title: "OR"
+    url: /or/
