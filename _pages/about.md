@@ -3,9 +3,18 @@ permalink: /about/
 title: "About"
 ---
 
-We are a duo from Porto who makes music with the sounds all around us.
+## Transistor: Where Sound Comes First
 
-*Transistor Collective Manifesto*
+**“In the beginning was the sound.”** If Jason Playback and Orson Rewind had written the opening lines of Genesis, these words would have defined their philosophy. Transistor, their collaborative project, is more than a musical endeavor—it’s a sonic exploration where the center is the sound itself.
+
+Born out of countless late-night sessions in Jason’s garage, Transistor is a meeting of two creative minds with complementary strengths. Jason’s meticulous approach to programming and his obsession with detail mesh seamlessly with Orson’s instinctive improvisation and fascination with textures. Together, they weave a tapestry of sound that is both futuristic and nostalgic, fusing cutting-edge technology with vintage charm.
+
+Transistor is a project rooted in process. Its essence is research: field recordings from the desert, urban soundscapes, and forgotten radio broadcasts. These are deconstructed, manipulated, and reimagined through sound synthesis. It is experiment: pushing boundaries, blending analog warmth with digital precision. It is discussion: endless debates over textures, tones, and the emotional weight of every note.
+
+Yet, for all its technological depth, Transistor is also deeply human. The project honors the past, embracing the crackle of old vinyl, the hum of shortwave radios, and the imperfect beauty of vintage instruments. Jason and Orson see Transistor as a bridge between eras, a conversation between yesterday’s nostalgia and tomorrow’s possibilities.
+
+
+## Transistor Collective Manifesto
 
 **1. Radio as Source, Sound as Canvas**\
 We are Transistor, an artistic collective that draws from the endless frequencies of radio waves—voices, static, songs, and signals—transforming their raw transmissions into new sonic landscapes. Every broadcast is a source of creation, every sound a potential composition. We pull from the ether, remixing the world as it unfolds.
