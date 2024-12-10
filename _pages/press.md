@@ -3,6 +3,9 @@ permalink: /press/
 title: "**PRESS KIT: TRANSISTOR – *Shortwave***"
 ---
 
+<img src="/assets/images/bio-photo.jpg" alt="Cover of the Shortwave album, released  on November 28th 2024" width="55%">\
+<small>Our first album, Shortwave, was released on November 28th 2024</small>
+
 ## **"In the Beginning Was the Sound"**
 
 Transistor, the innovative electronic music collective led by Jason Playback and Orson Rewind, proudly presents their debut album, *Shortwave*. This groundbreaking project is a sonic journey that blurs the boundaries between past and future, technology and nostalgia, weaving a rich tapestry of sound recorded from the global airwaves.
@@ -45,7 +48,7 @@ Creating *Shortwave* was both a technological feat and an artistic challenge. To
 
 *Shortwave* is available on all major streaming platforms and in CD for audiophiles and collectors.
 
-For media inquiries, interviews, or promotional materials, please contact: transistor.pt@gmail.com 
+For media inquiries, interviews, or promotional materials, please contact: [transistor.pt@gmail.com](mailto:transistor.pt@gmail.com) 
 
 Discover the sound of the world with *Shortwave*—a record where every note carries a story: [Spotify Link](https://open.spotify.com/intl-pt/album/2N0b6nErRkixvIjMW7zeQP?si=fTI2mCtNSZWDNHhgsCqyNw)
 
